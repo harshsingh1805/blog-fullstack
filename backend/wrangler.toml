@@ -1,0 +1,7 @@
+name = "blog-app"
+compatibility_date = "2023-12-01"
+account_id = ""
+
+[vars]
+JWT_SECRET = ""
+DATABASE_URL = ""
